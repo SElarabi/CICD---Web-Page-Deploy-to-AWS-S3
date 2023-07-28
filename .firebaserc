@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cloudfunctionpractice-33583"
-  }
+    "default": "coloredhellopage",
+    "coloredhellopage": "coloredhellopage"
+  },
+  "targets": {},
+  "etags": {}
 }
